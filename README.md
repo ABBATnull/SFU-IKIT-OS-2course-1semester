@@ -1,1 +1,1 @@
-# SFU-IKIT-OS-2course-1semester
+# SFU-IKIT-Operation systems-2course-1semester
